@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Saeed%20X302&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Saeed%20X305&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
 <h1 align="center">
@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaeedX302&style=for-the-badge&color=blueviolet" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/SaeedX302?style=for-the-badge&color=blue" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/SaeedX302?style=for-the-badge&color=yellow" alt="GitHub Stars">
+  <img src="https://komarev.com/ghpvc/?username=SaeedX305&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/SaeedX305?style=for-the-badge&color=blue" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/SaeedX305?style=for-the-badge&color=yellow" alt="GitHub Stars">
 </p>
 
 <div align="center">
@@ -110,12 +110,12 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaeedX302&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedX302&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaeedX305&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedX305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaeedX302&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6A5ACD&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaeedX305&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6A5ACD&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 ---
@@ -198,7 +198,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeedX302&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeedX305&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
